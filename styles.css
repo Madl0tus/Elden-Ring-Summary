@@ -1,0 +1,22 @@
+body {
+    background-color: #162A24;
+    color: #E9BE54;
+    font-family: Arial;
+}
+
+.container {
+    width: 60%;
+    margin: auto;          
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.container img{
+    width: 400px;
+    display: block;
+    margin: auto;
+}
